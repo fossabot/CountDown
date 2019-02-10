@@ -251,7 +251,7 @@ module.exports = {
     *                                                                          *
     ***************************************************************************/
     onlyAllowOrigins: [
-       'https://count-down-world-change.herokuapp.com/'
+       'https://count-down-world-change.herokuapp.com'
      ],
 
 
