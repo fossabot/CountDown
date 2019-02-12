@@ -26,3 +26,4 @@ Note:  Generators are usually run using the globally-installed `sails` CLI (comm
 
 ### Status
 <a href="https://codeclimate.com/github/ChunCVL/CountDown/maintainability"><img src="https://api.codeclimate.com/v1/badges/2a1960cc2d1f11b1a9f4/maintainability" /></a>
+<a href="https://codeclimate.com/github/ChunCVL/CountDown/test_coverage"><img src="https://api.codeclimate.com/v1/badges/2a1960cc2d1f11b1a9f4/test_coverage" /></a>
