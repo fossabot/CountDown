@@ -67,14 +67,14 @@ var jsFilesToInject = [
   // Bring in `.js` files for any other client-side JavaScript dependencies.
   // (e.g. Lodash, Vue.js, jQuery, Bootstrap, Ember, Angular, etc.)
   // > Be sure to list dependencies that depend on each other in the right order!
-  'dependencies/jquery-3.3.1.min.js',
-  'dependencies/bootstrap.min.js',
-  'dependencies/amplitude.min.js',
   'dependencies/**/*.js',
 
   // All of the rest of your custom client-side js files will be injected here,
   // in no particular order.  To customize the ordering, add additional items
   // here, _above_ this one.
+  'vendor/jquery-3.3.1.min.js',
+  'vendor/bootstrap.min.js',
+  'vendor/amplitude.min.js',
   'js/**/*.js'
 ];
 
