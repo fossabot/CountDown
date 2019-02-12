@@ -6,7 +6,7 @@ jobs:
     docker:
       - image: circleci/node
     # The secondary container is an instance of the second listed image which is run in a common network where ports exposed on the primary container are available on localhost.
-      - image: mongo:3.4.4-jessie
+      - image: mongo
     steps:
       - checkout
       - run:
@@ -16,8 +16,8 @@ jobs:
           key: dependency-cache-{{ checksum "package.json" }}
   test:
     docker:
-      - image: circleci/node:4.8.2-jessie
-      - image: mongo:3.4.4-jessie
+      - image: circleci/node
+      - image: mongo
     steps:
       - checkout
       - run:
