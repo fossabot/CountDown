@@ -74,7 +74,6 @@ var jsFilesToInject = [
   // here, _above_ this one.
   'vendor/jquery-3.3.1.min.js',
   'vendor/bootstrap.min.js',
-  'vendor/amplitude.min.js',
   'js/**/*.js'
 ];
 
