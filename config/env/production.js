@@ -251,8 +251,8 @@ module.exports = {
     *                                                                          *
     ***************************************************************************/
     onlyAllowOrigins: [
-       'https://count-down-world-change.herokuapp.com'
-     ],
+      'https://count-down-world-change.herokuapp.com'
+    ],
 
 
     /***************************************************************************
@@ -336,7 +336,7 @@ module.exports = {
   * this, just try deploying without setting it and see if it works.)       *
   *                                                                         *
   ***************************************************************************/
-   port: 8080,
+  port: 8080,
 
 
 
