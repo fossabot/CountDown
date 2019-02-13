@@ -29,3 +29,4 @@ Note:  Generators are usually run using the globally-installed `sails` CLI (comm
 <a href="https://codeclimate.com/github/ChunCVL/CountDown/test_coverage"><img src="https://api.codeclimate.com/v1/badges/2a1960cc2d1f11b1a9f4/test_coverage" /></a>
 <a href="https://www.codacy.com/app/cvlangelbeats/CountDown?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ChunCVL/CountDown&amp;utm_campaign=Badge_Grade"><img src="https://api.codacy.com/project/badge/Grade/0bf1594f86c548a295c566e7d283becd"/></a>
 <a href="https://codebeat.co/projects/github-com-chuncvl-countdown-master"><img alt="codebeat badge" src="https://codebeat.co/badges/f2cda6af-a911-48bd-b850-aff6d54ccb68" /></a>
+<a href="https://lgtm.com/projects/g/ChunCVL/CountDown/context:javascript"><img alt="Language grade: JavaScript" src="https://img.shields.io/lgtm/grade/javascript/g/ChunCVL/CountDown.svg?logo=lgtm&logoWidth=18"/></a>
