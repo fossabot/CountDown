@@ -30,3 +30,8 @@ Note:  Generators are usually run using the globally-installed `sails` CLI (comm
 <a href="https://www.codacy.com/app/cvlangelbeats/CountDown?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ChunCVL/CountDown&amp;utm_campaign=Badge_Grade"><img src="https://api.codacy.com/project/badge/Grade/0bf1594f86c548a295c566e7d283becd"/></a>
 <a href="https://codebeat.co/projects/github-com-chuncvl-countdown-master"><img alt="codebeat badge" src="https://codebeat.co/badges/f2cda6af-a911-48bd-b850-aff6d54ccb68" /></a>
 <a href="https://lgtm.com/projects/g/ChunCVL/CountDown/context:javascript"><img alt="Language grade: JavaScript" src="https://img.shields.io/lgtm/grade/javascript/g/ChunCVL/CountDown.svg?logo=lgtm&logoWidth=18"/></a>
+<a href="https://app.fossa.io/projects/git%2Bgithub.com%2FChunCVL%2FCountDown?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.io/api/projects/git%2Bgithub.com%2FChunCVL%2FCountDown.svg?type=shield"/></a>
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FChunCVL%2FCountDown.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FChunCVL%2FCountDown?ref=badge_large)
